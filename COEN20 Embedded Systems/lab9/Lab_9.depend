@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1496938465 source:\\samba1\avainaus\dcengr\my documents\embitzworkspace\lab_9\q32product.s
+
+1496938488 source:\\samba1\avainaus\dcengr\my documents\embitzworkspace\lab_9\testq32.c
+	<stdio.h>
+	<stdint.h>
+	"library.h"
+	"graphics.h"
+
+1460826432 \\samba1\avainaus\dcengr\my documents\embitzworkspace\\library.h
+
+1460742690 \\samba1\avainaus\dcengr\my documents\embitzworkspace\\graphics.h
+
+1496943522 source:\\samba1\avainaus\dcengr\my documents\embitzworkspace\lab_9\q32poly.s
+

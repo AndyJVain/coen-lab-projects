@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495728390 source:\\samba1\avainaus\dcengr\my documents\embitzworkspace\lab_7\main-2.c
+	<stdio.h>
+	<stdint.h>
+	<math.h>
+	"library.h"
+
+1460826432 \\samba1\avainaus\dcengr\my documents\embitzworkspace\\library.h
+
+1495730435 source:\\samba1\avainaus\dcengr\my documents\embitzworkspace\lab_7\lab_7.s
+

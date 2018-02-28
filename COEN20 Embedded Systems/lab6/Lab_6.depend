@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495123753 source:\\samba1\avainaus\dcengr\my documents\embitzworkspace\lab_6\testbitfields.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"library.h"
+
+1460826432 \\samba1\avainaus\dcengr\my documents\embitzworkspace\\library.h
+
+1495128852 source:\\samba1\avainaus\dcengr\my documents\embitzworkspace\lab_6\lab_6.s
+

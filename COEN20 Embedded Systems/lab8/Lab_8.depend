@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1496333514 source:\\samba1\avainaus\dcengr\my documents\embitzworkspace\lab_8\testpolynomial.c
+	<stdio.h>
+	<stdint.h>
+	"library.h"
+	"graphics.h"
+
+1460826432 \\samba1\avainaus\dcengr\my documents\embitzworkspace\\library.h
+
+1460742690 \\samba1\avainaus\dcengr\my documents\embitzworkspace\\graphics.h
+
+1496336661 source:\\samba1\avainaus\dcengr\my documents\embitzworkspace\lab_8\lab_8.s
+
